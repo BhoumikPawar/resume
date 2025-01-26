@@ -1,139 +1,63 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile - Aspiring Logistics & Supply Chain Manager</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #00796b;
-        }
-        h1 {
-            text-align: center;
-        }
-        section {
-            margin-bottom: 30px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 10px 0;
-        }
-        .emoji {
-            font-size: 1.5em;
-        }
-        .skills-list, .languages-list, .hobbies-list {
-            padding-left: 20px;
-        }
-        .graph {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 20px;
-        }
-        .graph div {
-            width: 30%;
-            color: white;
-            text-align: center;
-            line-height: 30px;
-            font-weight: bold;
-        }
-        .graph div:nth-child(1) {
-            background-color: #4caf50;
-        }
-        .graph div:nth-child(2) {
-            background-color: #f44336;
-        }
-        .graph div:nth-child(3) {
-            background-color: #ff9800;
-        }
-    </style>
-</head>
-<body>
+🌟 Profile of an Aspiring Logistics & Supply Chain Manager 🌟
 
-    <h1>🌟 Profile of an Aspiring Logistics & Supply Chain Manager 🌟</h1>
+👤 About Me
+🎓 I'm a logistics and supply chain manager in the making, with a solid foundation in data analysis, optimization, and operational efficiency. Currently rocking my MBA at Chandigarh University, focusing on Logistics & Supply Chain Management and Business Analytics. 📊 Passionate about bridging technology with business operations. Proficient in Linux (Debian), networking (CCNA), and programming. Also, skilled in digital marketing, sales, and content creation. 🌍 IELTS Proficiency: 7.5 (CEFR Level C1).
 
-    <section>
-        <h2>👤 About Me</h2>
-        <p>🎓 Aspiring logistics and supply chain manager with a strong foundation in data analysis, visualization, and operational efficiency. 📊 Currently pursuing an MBA at Chandigarh University, specializing in Logistics & Supply Chain Management with a minor in Business Analytics. Hands-on experience in data-driven projects and tools for supply chain optimization. 🛠️ Proficient in Linux (Debian), networking (CCNA candidate for March 2025), and programming. Skilled in digital marketing, sales, and content creation with a proven ability to bridge the gap between technology and business operations. 🌍 IELTS proficiency (7.5, CEFR Level C1).</p>
-    </section>
+🎓 Education
 
-    <section>
-        <h2>🎓 Education</h2>
-        <ul>
-            <li><strong>Master of Business Administration (MBA)</strong> - Logistics & Supply Chain Management, Minor in Business Analytics <br> <em>Chandigarh University, Gharuan, India | 2023 – Present</em></li>
-            <li><strong>Bachelor of Computer Applications (BCA)</strong> - Maharaja Agrasen Himalayan Garhwal University, Uttarakhand, India | 2020 – 2023</li>
-            <li><strong>Senior Secondary Education</strong> - Bal Bhartiya Sr. Sec. School, Ganaur, India | 2019 – 2020</li>
-            <li><strong>Primary Education</strong> - Hindu Vidyapeeth Sr. Sec. School, Sonipat, India | 2008 – 2018</li>
-        </ul>
-    </section>
+Master of Business Administration (MBA)
+Logistics & Supply Chain Management | Minor: Business Analytics
+📍 Chandigarh University, Gharuan, India | 2023 – Present
 
-    <section>
-        <h2>💼 Professional Experience</h2>
-        <ul>
-            <li><strong>Digital Marketing Manager</strong> <br> Voda Chemicals Pvt. Ltd., Kundli, India | March 2023 – June 2023 💻</li>
-            <li><strong>Management and Sales Trainee</strong> <br> Voda Chemicals Pvt. Ltd., Kundli, India | Dec 2022 – Mar 2023 📈</li>
-            <li><strong>Management Trainee</strong> <br> BD Yarn Pvt. Ltd., Delhi, India | June 2024 – Aug 2024 📊</li>
-        </ul>
-    </section>
+Bachelor of Computer Applications (BCA)
+📍 Maharaja Agrasen Himalayan Garhwal University, Uttarakhand, India | 2020 – 2023
 
-    <section>
-        <h2>🛠️ Skills</h2>
-        <ul class="skills-list">
-            <li>🔧 Logistics & Supply Chain Management: Demand forecasting, inventory management, international shipping regulations (INCOTERMS).</li>
-            <li>📊 Data Analysis & Visualization: Power BI, Excel, Tableau, data-driven decision-making.</li>
-            <li>📢 Digital Marketing: Content creation, Google Ads, Facebook Ads, SEO.</li>
-            <li>💻 Technical Proficiency: Linux (Debian), networking (Cisco CCNA), Python, Unity, Blender, shell scripting.</li>
-            <li>🗣️ Soft Skills: Strategic planning, communication, coordination, adaptability.</li>
-        </ul>
-    </section>
+Senior Secondary Education
+📍 Bal Bhartiya Sr. Sec. School, Ganaur, India | 2019 – 2020
 
-    <section>
-        <h2>🏆 Certifications & Courses</h2>
-        <ul>
-            <li>📜 Diploma in Computer Applications | HARTRON (2018 – 2020)</li>
-            <li>📜 Diploma in Computer Hardware & Networking | HARTRON (2019 – 2020)</li>
-            <li>📜 Cisco CCNA Certification (Scheduled for March 2025)</li>
-        </ul>
-    </section>
+Primary Education
+📍 Hindu Vidyapeeth Sr. Sec. School, Sonipat, India | 2008 – 2018
 
-    <section>
-        <h2>🌍 Languages</h2>
-        <ul class="languages-list">
-            <li>English: IELTS 7.5 (CEFR Level C1) | Listening: 8.5, Reading: 7.5, Writing: 7.0, Speaking: 6.5</li>
-        </ul>
-    </section>
+💼 Professional Experience
 
-    <section>
-        <h2>🎮 Hobbies & Interests</h2>
-        <ul class="hobbies-list">
-            <li>🎮 Game Development: Created games using Unity and Blender, with expertise in C#.</li>
-            <li>🧘 Wellness: Meditation, prayer, skincare, and cardio fitness.</li>
-            <li>🎥 Content Creation: Managed YouTube content, focusing on gamedev logs and tech learning.</li>
-        </ul>
-    </section>
+Digital Marketing Manager
+🏢 Voda Chemicals Pvt. Ltd. | Kundli, India | Mar 2023 – Jun 2023
+🌐 Managed online campaigns, ads (Google/Facebook), and digital content. Boosted brand visibility and lead generation. 💻
 
-    <section>
-        <h2>❤️ Volunteering</h2>
-        <p>💉 Blood Donor: Contributed once to a victim in need and donated three times to blood banks. 🩸</p>
-    </section>
+Management and Sales Trainee
+🏢 Voda Chemicals Pvt. Ltd. | Kundli, India | Dec 2022 – Mar 2023
+📞 Conducted cold calls, learned INCOTERMS, and coordinated sales demands. 📈
 
-    <section>
-        <h2>📊 Data Representation</h2>
-        <div class="graph">
-            <div style="width: 70%;">Data Analysis Skills (70%)</div>
-            <div style="width: 50%;">Digital Marketing (50%)</div>
-            <div style="width: 40%;">Logistics Management (40%)</div>
-        </div>
-    </section>
+Management Trainee
+🏢 BD Yarn Pvt. Ltd. | Delhi, India | Jun 2024 – Aug 2024
+📧 Executive assistant handling communication, internal process streamlining, and customer inquiries. 📊
 
-</body>
-</html>
+🛠️ Skills
+
+🔧 Logistics & Supply Chain Management: Demand forecasting, inventory management, INCOTERMS
+📊 Data Analysis & Visualization: Power BI, Excel, Tableau
+📢 Digital Marketing: Google Ads, Facebook Ads, SEO
+💻 Tech Skills: Linux (Debian), CCNA, Python, Unity, Blender
+🗣️ Soft Skills: Strategic planning, communication, adaptability
+🏆 Certifications & Courses
+
+📜 Diploma in Computer Applications | HARTRON (2018 – 2020)
+📜 Diploma in Computer Hardware & Networking | HARTRON (2019 – 2020)
+📜 Cisco CCNA Certification (Mar 2025)
+🌍 Languages
+
+English: IELTS 7.5 (CEFR Level C1)
+🎧 Listening: 8.5 | 📖 Reading: 7.5 | ✍️ Writing: 7.0 | 🗣️ Speaking: 6.5
+🎮 Hobbies & Interests
+
+🎮 Game Development: Unity, Blender, C#
+🧘 Wellness: Meditation, cardio fitness, and skincare
+🎥 Content Creation: YouTube tech learning & gamedev logs
+❤️ Volunteering
+
+💉 Blood Donor: Contributed once to a victim in need and donated 3 times to blood banks. 🩸
+📊 Data Representation
+
+Data Analysis Skills: 💚 70%
+Digital Marketing: ❤️ 50%
+Logistics Management: 🧡 40%
