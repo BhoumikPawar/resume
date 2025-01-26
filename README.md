@@ -1,31 +1,44 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Profile</title>
+  <title>✨ My ✨ Profile ✨</title>
   <style>
     body {
       font-family: sans-serif;
       margin: 20px;
+      background-color: #f0f0f0;
     }
     h1 {
       color: #333;
+      text-align: center;
+      text-shadow: 2px 2px 4px #888;
     }
     h2 {
       color: #555;
       margin-top: 20px;
     }
+    p {
+      margin-bottom: 10px;
+    }
     ul {
       list-style-type: disc;
       margin-left: 20px;
+      padding-left: 20px;
     }
     .highlight {
       font-weight: bold;
+      color: #007bff; 
+    }
+    .section-title {
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
     }
   </style>
 </head>
 <body>
 
-  <h1>Profile</h1>
+  <h1 style="font-size: 2em;">✨ My ✨ Profile ✨</h1>
+
   <p>Aspiring logistics and supply chain manager with a strong foundation in 
      <span class="highlight">data analysis</span>, 
      <span class="highlight">visualization</span>, 
@@ -33,7 +46,7 @@
      Currently pursuing an MBA at Chandigarh University with a specialization in 
      <span class="highlight">Logistics & Supply Chain Management</span> 
      and a minor in <span class="highlight">Business Analytics</span>. 
-     Hands-on experience in data-driven projects and tools for supply chain optimization.</p>
+     Hands-on experience in data-driven projects and tools for supply chain optimization. 🚀</p>
 
   <p>Proficient in 
      <span class="highlight">Linux (Debian)</span>, 
@@ -46,9 +59,9 @@
      and 
      <span class="highlight">content creation</span> 
      with a proven ability to bridge the gap between technology and business operations. 
-     IELTS proficiency (7.5, CEFR Level C1).</p>
+     IELTS proficiency (7.5, CEFR Level C1). 🌐</p>
 
-  <h2>Education</h2>
+  <h2 class="section-title">🎓 Education</h2>
   <h3>Master of Business Administration (MBA)</h3>
   <p>Logistics & Supply Chain Management, Minor in Business Analytics</p>
   <p>Chandigarh University, Gharuan, India | 2023 – Present</p>
@@ -71,13 +84,13 @@
   <h3>Primary Education</h3>
   <p>Hindu Vidyapeeth Sr. Sec. School, Sonipat, India | 2008 – 2018</p>
 
-  <h2>Professional Experience</h2>
+  <h2 class="section-title">💼 Professional Experience</h2>
   <h3>Digital Marketing Manager</h3>
   <p>Voda Chemicals Pvt. Ltd., Kundli, India | March 2023 – June 2023</p>
   <ul>
-    <li>Created digital content, including posters and videos, for online campaigns.</li>
-    <li>Ran Facebook and Google Ads to generate quality leads and boost brand visibility.</li>
-    <li>Streamlined the company’s online presence and enhanced customer engagement.</li>
+    <li>Created digital content, including posters and videos, for online campaigns. 🎥</li>
+    <li>Ran Facebook and Google Ads to generate quality leads and boost brand visibility. 📈</li>
+    <li>Streamlined the company’s online presence and enhanced customer engagement. 😊</li>
   </ul>
 
   <h3>Management and Sales Trainee</h3>
@@ -85,17 +98,17 @@
   <ul>
     <li>Conducted cold calls for pharmaceutical clients and prepared replies on IndiaMart.</li>
     <li>Composed professional emails, learned INCOTERMS for international shipments, and studied pharmaceutical product details.</li>
-    <li>Coordinated sales demands with production units to ensure timely delivery and operational efficiency.</li>
+    <li>Coordinated sales demands with production units to ensure timely delivery and operational efficiency. 📦</li>
   </ul>
 
   <h3>Management Trainee</h3>
   <p>BD Yarn Pvt. Ltd., Delhi, India | June 2024 – August 2024</p>
   <ul>
     <li>Worked as an executive assistant, handling email communication and managing online portals for daily operations.</li>
-    <li>Supported the team in streamlining internal processes and addressing customer inquiries efficiently.</li>
+    <li>Supported the team in streamlining internal processes and addressing customer inquiries efficiently. 👍</li>
   </ul>
 
-  <h2>Skills</h2>
+  <h2 class="section-title">💪 Skills</h2>
   <ul>
     <li><b>Logistics & Supply Chain Management</b>: Demand forecasting, inventory management, international shipping regulations (INCOTERMS).</li>
     <li><b>Data Analysis & Visualization</b>: Power BI, Excel, Tableau, data-driven decision-making.</li>
@@ -104,25 +117,25 @@
     <li><b>Soft Skills</b>: Strategic planning, communication, coordination, and adaptability.</li>
   </ul>
 
-  <h2>Certifications & Courses</h2>
+  <h2 class="section-title">🏆 Certifications & Courses</h2>
   <ul>
     <li>Diploma in Computer Applications | HARTRON (2018 – 2020)</li>
     <li>Diploma in Computer Hardware & Networking | HARTRON (2019 – 2020)</li>
     <li>Cisco CCNA Certification (Scheduled for March 2025)</li>
   </ul>
 
-  <h2>Languages</h2>
+  <h2 class="section-title">🌎 Languages</h2>
   <p>English: IELTS 7.5 (CEFR Level C1) | Listening: 8.5, Reading: 7.5, Writing: 7.0, Speaking: 6.5</p>
 
-  <h2>Hobbies & Interests</h2>
+  <h2 class="section-title">✨ Hobbies & Interests</h2>
   <ul>
-    <li>Game Development: Created games using Unity and Blender, with expertise in C#.</li>
-    <li>Wellness: Meditation, prayer, skincare, and cardio fitness.</li>
-    <li>Content Creation: Managed YouTube content, focusing on gamedev logs and tech learning.</li>
+    <li>Game Development: Created games using Unity and Blender, with expertise in C#. 🎮</li>
+    <li>Wellness: Meditation, prayer, skincare, and cardio fitness. 🧘‍♂️</li>
+    <li>Content Creation: Managed YouTube content, focusing on gamedev logs and tech learning. 🎬</li>
   </ul>
 
-  <h2>Volunteering</h2>
-  <p>Blood Donor: Contributed once to a victim in need and donated three times to blood banks.</p>
+  <h2 class="section-title">❤️ Volunteering</h2>
+  <p>Blood Donor: Contributed once to a victim in need and donated three times to blood banks. 🩸</p>
 
 </body>
 </html>
